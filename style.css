@@ -1,0 +1,193 @@
+.body{
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    justify-content: center;
+    margin: 0;
+    background-color: rgb(204, 253, 176);
+}
+.header {
+   height: 90px;
+   background-color: #436850;
+   margin: 10px 0;
+   color: white;
+}
+.main{
+    height: 600px;
+    padding : 100px 80px;
+}
+.footer{
+    height: 270px;
+    background-color:slategrey;
+    padding : 40px;
+    color : white;
+} 
+.footer-logo{
+    float : left;
+    font-size: 32px;
+}
+.footer-list{
+    float: right;
+}
+.footer-list li{
+    list-style: none;
+    padding-bottom: 20px;
+}
+li{
+    list-style:none;
+    float:left;
+    padding: 33px 20px;
+}
+.header-logo{
+    float: left;
+    font-size: 36px;
+    font-weight: bold;
+    padding: 20px 40px 20px 40px;
+}
+.header-list li{
+    list-style: none;
+    float: right;
+    padding: 50px 45px;
+}
+.footer{
+    height:350px;
+    background-color: #436850;
+    padding:40px;
+    color:white;
+}
+.footer-logo{
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+}
+.footer-list{
+    float:right;
+    margin: auto;
+    font-size: 28px;
+}
+.footer-list li{
+    list-style:none;
+    padding-bottom:0px;
+
+}
+.footer-list p{
+    list-style:none;
+    padding-bottom:20px;
+}
+.main{
+    margin: 0;
+    text-align: center;
+    font-size: 35px;
+}
+.copy-container h1{
+    font-size : 100px;
+
+}
+
+.section-tittle{
+    margin: 0;
+    font-size:30px;
+    text-align: center;
+    align-content: center;
+}
+.section-tittle ul li contents-item{
+    float:none;
+    margin: 0;
+    text-align: center;
+    align-content: center;
+}
+.contain{
+    height:300px;
+}
+.contents-item p{
+    font-size: 30px;
+}
+input, textarea, select, button{
+    width: 400px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    padding: 20px;
+    font-size: 30px;
+    border: 1px; 
+}
+.contact-submit{
+    background-color: lightblue;
+}
+.numbertext {
+    color: #f2f2f2;
+    font-size: 12px;
+    padding: 8px 12px;
+    position: absolute;
+    top: 0;
+  }
+.container {
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+    background: white;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+form {
+    display: flex;
+    flex-direction: column;
+}
+.section-tittle h1{
+    font-size: 80px;
+    text-align: center;
+}
+
+.contact-form h2{
+    font-size: 80px;
+}
+.about{
+    align-items: center;
+}
+.about p{
+    font-size: 35px;
+}
+.visi h2 {
+    font-size: 45px;
+}
+.visi p {
+    font-size: 35px;
+}
+
+.Misi h2 {
+    font-size: 45px;
+}
+.Misi p {
+    font-size: 35px;
+}
+
+.about table {
+    text-align: center;
+    margin: auto;
+    font-size: 35px;
+    border: 0.5px;
+    border-collapse: collapse;
+    background-color: beige;
+}
+table{
+    width: 50%;
+    font-size: 28px;
+    padding: 25px;
+    align-items: center;
+    justify-content: center;
+    margin-top:0px;
+    margin-bottom: 20px;
+}
+
+td{
+    padding: 8px;
+    text-align: left;
+    
+}
+
+button{
+    margin: auto;
+    margin-bottom: 20px;
+    border-radius: 4px;
+    padding: 7px;
+    background-color: #436850;
+    color:#FBFADA;
+}
